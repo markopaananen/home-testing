@@ -23,6 +23,7 @@ namespace trainingFunctionsTask1
             int.TryParse(userKorkeus, out int uKorkeus);
 
             Console.WriteLine ("Pinta-ala :{0}", calcArea(userInput, uKanta, uKorkeus, uAla));
+
             
             //Console.WriteLine("Vastaus alan suuruuteen on : {0} ", calcArea((userInput, uKanta, uKorkeus));
             Console.WriteLine("Press any key to continue,,,");
